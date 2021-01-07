@@ -1,4 +1,5 @@
 const os = require('os')
+const log = require('./logger')
 
 setInterval(() => {
 
@@ -10,6 +11,7 @@ setInterval(() => {
     const total = parseInt(totalmem() / 1024 / 1024)
     const mem = parseInt(freemem() / 1024 / 1024)
     const percents = parseInt((mem / total) * 100)
+    let date = new Date()
 
     const stats = {
         free: `${mem} MB`,
@@ -20,5 +22,8 @@ setInterval(() => {
     console.clear()
     console.log("Memory Stats")
     console.table(stats)
+    
+    log(`${date}\n`)
+    log(`${JSON.stringify(stats)}\n`)
 
-}, 1000)
+}, 3000)

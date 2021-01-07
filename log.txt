@@ -1,0 +1,41 @@
+Tue Jan 05 2021 21:48:21 GMT-0300 (Horário Padrão de Brasília)
+{"free":"194 MB","total":"5827 MB","usage":"3%"}
+Tue Jan 05 2021 21:48:24 GMT-0300 (Horário Padrão de Brasília)
+{"free":"189 MB","total":"5827 MB","usage":"3%"}
+Tue Jan 05 2021 21:48:27 GMT-0300 (Horário Padrão de Brasília)
+{"free":"190 MB","total":"5827 MB","usage":"3%"}
+Tue Jan 05 2021 21:48:30 GMT-0300 (Horário Padrão de Brasília)
+{"free":"186 MB","total":"5827 MB","usage":"3%"}
+Tue Jan 05 2021 21:48:33 GMT-0300 (Horário Padrão de Brasília)
+{"free":"187 MB","total":"5827 MB","usage":"3%"}
+Tue Jan 05 2021 21:48:36 GMT-0300 (Horário Padrão de Brasília)
+{"free":"188 MB","total":"5827 MB","usage":"3%"}
+Tue Jan 05 2021 21:48:39 GMT-0300 (Horário Padrão de Brasília)
+{"free":"186 MB","total":"5827 MB","usage":"3%"}
+Tue Jan 05 2021 21:48:42 GMT-0300 (Horário Padrão de Brasília)
+{"free":"189 MB","total":"5827 MB","usage":"3%"}
+Tue Jan 05 2021 21:48:45 GMT-0300 (Horário Padrão de Brasília)
+{"free":"186 MB","total":"5827 MB","usage":"3%"}
+Tue Jan 05 2021 21:48:48 GMT-0300 (Horário Padrão de Brasília)
+{"free":"185 MB","total":"5827 MB","usage":"3%"}
+Tue Jan 05 2021 21:48:51 GMT-0300 (Horário Padrão de Brasília)
+{"free":"188 MB","total":"5827 MB","usage":"3%"}
+Tue Jan 05 2021 21:48:54 GMT-0300 (Horário Padrão de Brasília)
+{"free":"186 MB","total":"5827 MB","usage":"3%"}
+Tue Jan 05 2021 21:48:57 GMT-0300 (Horário Padrão de Brasília)
+{"free":"188 MB","total":"5827 MB","usage":"3%"}
+Tue Jan 05 2021 21:49:00 GMT-0300 (Horário Padrão de Brasília)
+{"free":"185 MB","total":"5827 MB","usage":"3%"}Wed Jan 06 2021 15:00:41 GMT-0300 (Horário Padrão de Brasília)
+{"free":"176 MB","total":"5827 MB","usage":"3%"}
+Wed Jan 06 2021 15:00:44 GMT-0300 (Horário Padrão de Brasília)
+{"free":"179 MB","total":"5827 MB","usage":"3%"}
+Wed Jan 06 2021 15:00:47 GMT-0300 (Horário Padrão de Brasília)
+{"free":"169 MB","total":"5827 MB","usage":"2%"}
+Wed Jan 06 2021 15:00:50 GMT-0300 (Horário Padrão de Brasília)
+{"free":"184 MB","total":"5827 MB","usage":"3%"}
+Wed Jan 06 2021 15:00:53 GMT-0300 (Horário Padrão de Brasília)
+{"free":"196 MB","total":"5827 MB","usage":"3%"}
+Wed Jan 06 2021 15:00:56 GMT-0300 (Horário Padrão de Brasília)
+{"free":"204 MB","total":"5827 MB","usage":"3%"}
+Wed Jan 06 2021 15:00:59 GMT-0300 (Horário Padrão de Brasília)
+{"free":"170 MB","total":"5827 MB","usage":"2%"}
